@@ -1,4 +1,4 @@
-установка ubuntu linux
+установка ubuntu linux для чайников 
 
 
 Шаг 1 
