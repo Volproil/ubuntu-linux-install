@@ -1,4 +1,4 @@
-
+установка ubuntu linux
 Шаг 1 
 установка iso образа ubuntu с официального сайта https://ubuntu.com/download/desktop/thank-you?version=22.04.2&architecture=amd64
 
