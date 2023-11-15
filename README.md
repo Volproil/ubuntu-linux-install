@@ -6,6 +6,7 @@
 
 Шаг 2 
 установка rufus https://drive.google.com/drive/folders/15Ku8B9Hh3ruOiqWjTc9uKpozo7FOKOLw?usp=sharing или со списка файлов github
+
 запускаем rufus-3.22p.exe
 
 Шаг 3 
