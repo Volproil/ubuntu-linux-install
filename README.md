@@ -5,9 +5,9 @@
 установка iso образа ubuntu с официального сайта https://ubuntu.com/download/desktop/thank-you?version=22.04.2&architecture=amd64
 
 Шаг 2 
-установка rufus https://drive.google.com/drive/folders/15Ku8B9Hh3ruOiqWjTc9uKpozo7FOKOLw?usp=sharing или со списка файлов github
+установка rufus https://github.com/pbatard/rufus/releases/download/v4.7/rufus-4.7p.exe или со списка файлов github
 
-запускаем rufus-3.22p.exe
+запускаем rufus
 
 Шаг 3 
 подключаем пустую флешку (данные с флешки будут удалены) не меньше 8гб
